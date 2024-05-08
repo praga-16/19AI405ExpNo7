@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Yuvadarshini S</h3>
-<h3>Register Number : 212221230126</h3>
+<h3>Name: pragatheesvaran AB</h3>
+<h3>Register Number : 212221240039</h3>
 
 # Aim: 
 
